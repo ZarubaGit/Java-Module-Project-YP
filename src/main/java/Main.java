@@ -20,7 +20,7 @@ public class Main {
                 scanner.nextLine();
             }
         }
-        Claculat calculator = new Claculat(numOfPeople);
+        Calculat calculator = new Calculat(numOfPeople);
         calculator.addProducts();
         calculator.calculateAndDisplay();
 

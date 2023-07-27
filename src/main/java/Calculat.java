@@ -2,11 +2,11 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-class Claculat {
+class Calculat{
     private int numberOfGuests;
     private List<Product> products = new ArrayList<>();
 
-    public Claculat(int numberOfGuests) {
+    public Calculat(int numberOfGuests) {
         this.numberOfGuests = numberOfGuests;
     }
 
